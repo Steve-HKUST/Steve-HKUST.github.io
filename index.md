@@ -18,5 +18,5 @@ Fun!
 
 
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/)
  
