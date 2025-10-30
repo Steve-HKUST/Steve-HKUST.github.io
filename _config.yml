@@ -3,9 +3,9 @@ description: "Create an OER workshop website quick and easy!"
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Amy
+pub_year: 2025
+github_username: steve-hkust
 
 # add the full url for the github repository
 repo: "https://github.com/evanwill/workshop-template"
