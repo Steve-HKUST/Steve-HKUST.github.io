@@ -20,6 +20,5 @@ Fun!
 *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
 
-
 Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/)
  
