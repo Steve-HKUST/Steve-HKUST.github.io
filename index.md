@@ -6,7 +6,7 @@ title: Home
 
 {% include figure.html img="uidaho-workshop.jpg" caption="Library workshop" width="75%" %}
 
-![uidaho-workshop](uidaho-workshop.jpg)
+![uidaho-workshop](/images/uidaho-workshop.jpg)
 
 
 A minimal Jekyll theme for creating workshop websites.
